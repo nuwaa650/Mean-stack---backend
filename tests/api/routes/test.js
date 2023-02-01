@@ -8,7 +8,7 @@ const app = require('../../../app');
 const characters ='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
 const characters2 ='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
 const characters3 ='0123456789';
-
+// function
 function generateString(length, type) {
     let result = ' ';
     let charactersLength
